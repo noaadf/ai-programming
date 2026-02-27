@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+AlignAfterOpenBracket: DontAlign
+ContinuationIndentWidth: 4
+ColumnLimit: 100
