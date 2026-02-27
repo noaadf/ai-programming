@@ -1,0 +1,17 @@
+*.o
+*.so
+*.pyc
+__pycache__/
+build/
+build_cmake/
+.DS_Store
+.claude/
+.claude.json
+CLAUDE.md
+claude-progress.md
+feature-list.json
+.vscode/
+data/
+models/
+notebooks/
+*.egg-info/
